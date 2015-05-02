@@ -1,4 +1,4 @@
-# Google-Tab-Cycle
+# Google Tab Cycle
 
 Restores the ability to press tab to cycle through search results for http://google.co.uk
 
