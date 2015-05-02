@@ -1,7 +1,7 @@
 # Google-Tab-Cycle
 Restores the ability to press tab to cycle through search results for http://google.co.uk
 
-To install right click [TabSearchResults.user.js](https://github.com/slifin/Google-Tab-Cycle/raw/master/TabSearchResults.user.js) and press save to disk
+To install right click [TabSearchResults.user.js](https://github.com/slifin/Google-Tab-Cycle/raw/master/TabSearchResults.user.js) and press "save link as"
 
 navigate to
 
