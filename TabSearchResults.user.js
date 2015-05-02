@@ -5,8 +5,8 @@
 // ==/UserScript==
 (function($){
 	var elems = $.querySelectorAll('.g a');
-	Object.keys(elems).forEach(function(val){
-		var elem = elems[val];
+	Object.keys(elems).forEach(function(idx){
+		var elem = elems[idx];
 		if (elem.setAttribute)
 			elem.setAttribute('tabindex','1');
 	});
