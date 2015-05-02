@@ -3,7 +3,9 @@
 Restores the ability to press tab to cycle through search results for http://google.co.uk
 
 Dependancies - 
+
 Google Chrome
+
 Britishness
 
 To install right click [TabSearchResults.user.js](https://github.com/slifin/Google-Tab-Cycle/raw/master/TabSearchResults.user.js) and press "save link as"
