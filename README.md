@@ -3,6 +3,7 @@ Restores the ability to press tab to cycle through search results for http://goo
 
 To install save [TabSearchResults.user.js](https://github.com/slifin/Google-Tab-Cycle/raw/master/TabSearchResults.user.js) to disk
 open 
+
     chrome://extensions/
 drag the file into the extension window.
 
