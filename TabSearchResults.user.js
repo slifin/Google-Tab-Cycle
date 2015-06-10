@@ -4,6 +4,7 @@
 // @match https://www.google.co.uk/*
 // ==/UserScript==
 (function($){
+	'use strict';
 	var elems = $.querySelectorAll('.g a');
 	Object.keys(elems).forEach(function(idx){
 		var elem = elems[idx];
